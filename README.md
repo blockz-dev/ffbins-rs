@@ -1,2 +1,3 @@
 # ffbins-rs
-Another ffmpeg wrapper
+
+ffbins-rs
